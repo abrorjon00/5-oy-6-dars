@@ -160,4 +160,17 @@
 // console.log(news); 
 
 
+// 22-misol
+// function Words(sentence) {
+//     return sentence.split(' ').reverse().join(' '); 
+// }
+// console.log(Words('Hello World')); 
+
+// 23-misol
+// function findLongestWord(arg) {
+//     return arg.split(' ').reduce(( v, i) => i.length >  v.length ? i : v, '');
+// }
+
+// console.log(findLongestWord('salom qalaysiz'));
+
 
